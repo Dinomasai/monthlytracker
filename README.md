@@ -1,2 +1,1 @@
-# monthlytracker
-This web app provides a simple web application interface for users to track their income and expenses over different periods and visualize the data in an interactive manner
+Have you ever wanted to keep track of your monthly income and expenses but didn't want to use Excel? How about levering the power of Python and the streamlit library to build an interactive web application? To store your monthly reports, we will use the FREE NoSQL Database from Mongodb.To visualize the monthly spending, we will use a Sankey Chart from Plotly.
